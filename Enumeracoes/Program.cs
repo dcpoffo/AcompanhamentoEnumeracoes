@@ -6,7 +6,7 @@ namespace Enumeracoes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
